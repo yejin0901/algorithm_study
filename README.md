@@ -3,4 +3,5 @@
 1. 알고리즘 문제 3개씩 풀기
 2. 매주 일요일마다 코드리뷰 진행
 3. 알고리즘 주제는 매주 다름
-4. 이번주 : https://www.acmicpc.net/workbook/view/1983 //dfs+bfs
+4. 문제목록
+  2024 2주차 : https://www.acmicpc.net/workbook/view/1983 //dfs+bfs
