@@ -4,4 +4,4 @@
 2. 매주 일요일마다 코드리뷰 진행
 3. 알고리즘 주제는 매주 다름
 4. 문제목록<br>
-   (1) 2024 2주차 : https://www.acmicpc.net/workbook/view/1983 //dfs+bfs
+   (1) 2024년 1월 2주차 : https://www.acmicpc.net/workbook/view/1983 //dfs+bfs
