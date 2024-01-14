@@ -5,3 +5,4 @@
 3. 알고리즘 주제는 매주 다름
 4. 문제목록<br>
    (1) 2024년 1월 2주차 : https://www.acmicpc.net/workbook/view/1983 //dfs+bfs
+   (2) 2024년 1월 3주차 : https://www.acmicpc.net/workbook/view/7320 //그리디
