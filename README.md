@@ -6,4 +6,5 @@
 4. 문제목록<br>
    (1) 2024년 1월 2주차 : https://www.acmicpc.net/workbook/view/1983 //dfs+bfs<br>
    (2) 2024년 1월 3주차 : https://www.acmicpc.net/workbook/view/7320 //그리디<br>
-   (3) 2024년 1월 4주차 : https://www.acmicpc.net/workbook/view/7315 //백트래킹
+   (3) 2024년 1월 4주차 : https://www.acmicpc.net/workbook/view/7315 //백트래킹<br>
+   (4) 2024년 2월 1주차 : https://www.acmicpc.net/workbook/view/2063//브루트포스
