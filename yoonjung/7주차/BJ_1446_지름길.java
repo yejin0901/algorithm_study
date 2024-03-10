@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class BJ_1446_지름길 {
+public class BJ_1446_지름길 { // 수정
 	static int answer, D;
 	static ArrayList<int[]> list=new ArrayList<int[]>();
 
